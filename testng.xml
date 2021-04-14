@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Dummy" verbose="1">
+    <test name="Employee">
+        <classes>
+            <class name="in.co.gorest.EndToEndTest"/>
+        </classes>
+    </test>
+</suite>
